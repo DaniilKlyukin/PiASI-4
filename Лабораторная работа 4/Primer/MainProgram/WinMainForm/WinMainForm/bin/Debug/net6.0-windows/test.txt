@@ -1,0 +1,10 @@
+Found devices: 1 devices
+Device: 0
+Compute capability: 8.6
+Name: NVIDIA GeForce RTX 3070 Laptop GPU
+Total Global Memory: 8589410304
+Shared memory per block: 49152
+Registers per block: 65536
+Warp size: 32
+Max threads per block: 1024
+Total constant memory: 65536

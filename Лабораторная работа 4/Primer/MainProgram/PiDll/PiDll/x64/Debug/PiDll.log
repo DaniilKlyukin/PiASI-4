@@ -1,0 +1,10 @@
+﻿  Compiling CUDA source file cu1.cu...
+  
+  G:\ПиАСИ\2023\Лабораторные работы\Primer\MainProgram\PiDll\PiDll>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -D_DEBUG -D_CONSOLE -D_WINDLL -D_UNICODE -DUNICODE -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi  /MDd " -o x64\Debug\cu1.cu.obj "G:\ПиАСИ\2023\Лабораторные работы\Primer\MainProgram\PiDll\PiDll\cu1.cu" 
+  cu1.cu
+  ccc.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  ccc.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека G:\ПиАСИ\2023\Лабораторные работы\Primer\MainProgram\PiDll\x64\Debug\PiDll.lib и объект G:\ПиАСИ\2023\Лабораторные работы\Primer\MainProgram\PiDll\x64\Debug\PiDll.exp
+  PiDll.vcxproj -> G:\ПиАСИ\2023\Лабораторные работы\Primer\MainProgram\PiDll\x64\Debug\PiDll.dll
